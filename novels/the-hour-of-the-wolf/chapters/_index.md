@@ -9,7 +9,7 @@ story: the-hour-of-the-wolf
 
 | # | Title | POV | Status | Word Count | File |
 |---|-------|-----|--------|------------|------|
-| 1 | The Hour Between | krystyna-stankiewicz | draft | 5466 | [chapter-01](chapter-01.md) |
+| 1 | The Hour Between | krystyna-stankiewicz | draft | 5482 | [chapter-01](chapter-01.md) |
 | 2 | Salt and Silk | krystyna-stankiewicz | draft | 5927 | [chapter-02](chapter-02.md) |
 | 3 | The Ledger of Small Hours | krystyna-stankiewicz | draft | 5116 | [chapter-03](chapter-03.md) |
 | 4 | The Christmas of the Wolves | krystyna-stankiewicz | draft | 5037 | [chapter-04](chapter-04.md) |
@@ -20,7 +20,7 @@ story: the-hour-of-the-wolf
 | 9 | The House of the Hound | krystyna-stankiewicz | draft | 5247 | [chapter-09](chapter-09.md) |
 | 10 | The Brother | krystyna-stankiewicz | draft | 5309 | [chapter-10](chapter-10.md) |
 | 11 | The Colour of a Uniform | phillip-brandt | draft | 5249 | [chapter-11](chapter-11.md) |
-| 12 | The Cold Flat | krystyna-stankiewicz | draft | 5240 | [chapter-12](chapter-12.md) |
+| 12 | The Cold Flat | krystyna-stankiewicz | draft | 5260 | [chapter-12](chapter-12.md) |
 | 13 | Salt | krystyna-stankiewicz | draft | 5822 | [chapter-13](chapter-13.md) |
 | 14 | The Slow Fire | krystyna-stankiewicz | draft | 5209 | [chapter-14](chapter-14.md) |
 | 15 | The Hunter's Notebook | bruno-kalbach | draft | 4990 | [chapter-15](chapter-15.md) |
@@ -36,4 +36,4 @@ story: the-hour-of-the-wolf
 | 25 | The Capitulation | krystyna-stankiewicz | draft | 6626 | [chapter-25](chapter-25.md) |
 | 26 | Epilogue: The Hour Between | krystyna-stankiewicz | draft | 4376 | [chapter-26](chapter-26.md) |
 
-## Total Word Count: 146676
+## Total Word Count: 146712
