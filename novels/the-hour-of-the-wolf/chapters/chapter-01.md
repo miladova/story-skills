@@ -19,7 +19,7 @@ arcs-advanced:
   - the-mask
 hook: revelation
 target-words: 5300
-word-count: 5466
+word-count: 5482
 ---
 
 # Chapter 1: The Hour Between
@@ -116,7 +116,7 @@ So she lay still, and after a while he did what he always did when he had come c
 
 "Who is?"
 
-"Everyone. In this country, everyone. The French steal the coal and the clerks steal the coal the French leave behind. There is a whole department of my office that does nothing but count what is gone." He was awake now in the particular way of a man who has found something he can be busy about. "Do you know what I have spent the winter doing, my dear?"
+"Everyone. In this country, everyone. The French steal the coal and the clerks steal the coal the French leave behind. There is a whole department of my office that does nothing but count what is gone." He was awake now in the particular way of a man who has found something he can be busy about. "Do you know what I have spent the winter doing, Marion?"
 
 "Seeing that the officers are properly shaved," she said.
 
@@ -204,7 +204,7 @@ In the corridor, the hall clock said half past three.
 
 He grunted, which was his way of agreeing with something he did not intend to do anything about, and she got out of the bed, and dressed in the dark, and found her gloves, and stood for a moment at the window with the four bars of street light on her hands.
 
-By six she was on the pavement of the avenue Henri-Martin with her collar up, walking east towards the river, and the sky over Paris was the colour of a man who has been drinking all night. Rutz had held the gate for her and said *Fräulein Marion* in his careful way, and she had said *good morning, Emil*, which he liked, because she had one time asked him the name of his village and remembered it, and because the Germans are the easiest people in the world to be cruel to by being kind.
+By six she was on the pavement of the avenue Henri-Martin with her collar up, walking east towards the river, and the sky over Paris was the colour of a man who has been drinking all night. Rutz had held the gate for her and said *Fräulein Marion* — the name the house knew her by, the only name the Colonel had ever had for her — in his careful way, and she had said *good morning, Emil*, which he liked, because she had one time asked him the name of his village and remembered it, and because the Germans are the easiest people in the world to be cruel to by being kind.
 
 She walked twenty-five minutes to the rue Saint-Honoré. The streets were filling: the men on bicycles with the wooden tyres, the women in their queues outside the shops, the old man who had sold horse-meat from the same cart since before the war and had graduated in the course of the war to something worse. Two German soldiers came out of a bakery eating something hot and one of them looked at her and then away, and she felt, as she always did at that hour, exactly half alive: the night done, the delivery not yet made, and every fact she was carrying in her head sitting in the middle of her skull like a stone in a shoe.
 

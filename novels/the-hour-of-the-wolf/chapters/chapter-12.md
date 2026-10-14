@@ -20,7 +20,7 @@ arcs-advanced:
   - the-hunt
 hook: question
 target-words: 5300
-word-count: 5240
+word-count: 5260
 ---
 
 # Chapter 12: The Cold Flat
@@ -155,7 +155,7 @@ She looked at the paper on the table and did not touch it.
 
 ***
 
-She delivered on the eighteenth of April, in the cellar on the Śliska, with a candle and a table and a pistol, and Krupa did not sit down.
+She delivered on the eighteenth of April, in the cellar on the Śliska, with a candle and a table and a pistol, and Krupa — the Major, the man of the spectacles who had laid down the law to her across that cellar in March — did not sit down.
 
 She gave them the establishment of the counter-intelligence section, name by name, room by room, with the telephone numbers; the field offices of the district and the name of the man in Siedlce who delivered reports to the Abwehr and the cover name he had been given, which Iga wrote in the ledger in a hand so small that it looked like a smudge; the two fuel allocations; the page of the Feldgendarmerie's movement order of the sixth of April, which was, by then, four days old and therefore worthless, which she said out loud before they could; and the paragraph from the Colonel's memorandum to Ia of the second of April on the deployment of the section's field offices for the summer, which was not worthless at all, because a police service which is redeploying for the summer is a police service which has been told what the summer is going to be.
 
