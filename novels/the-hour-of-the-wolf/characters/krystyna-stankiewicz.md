@@ -44,6 +44,8 @@ locations:
   - paris-majestic
   - paris-odile-atelier
   - paris-rue-saint-honore
+  - wierzbow-estate
+  - warsaw-mokotow
 tags:
   - intelligence-agent
   - polish

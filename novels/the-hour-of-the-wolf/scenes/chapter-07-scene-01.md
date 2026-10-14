@@ -1,27 +1,33 @@
 ---
-title: The Trap of Small Talk
+title: "The sheet of paper in the study"
 chapter: chapter-07
 scene: 1
 pov: krystyna-stankiewicz
-location: paris-majestic
+location: paris-avenue-henri-martin
 characters:
   - krystyna-stankiewicz
-mentions: []
-arcs-advanced: []
-status: outline
+  - wolfram-von-hagen
+mentions:
+  - emil-rutz
+  - bruno-kalbach
+arcs-advanced:
+  - the-hunt
+  - the-mask
+status: draft
 date: 1944-02-28
-time: ""
 sequel: false
-dilemma: ""
+dilemma: "What is done with a discovery that cannot be reported without reporting the person who made it"
+outcome: no-and
+setting: interior
 state-changes: []
 ---
 
-# The Trap of Small Talk
+# The sheet of paper in the study
 
 ## Purpose
 
-What this scene changes.
+The trap closes: the sixth of January, half past ten at night, the sheet of paper, and the arithmetic that ends with somebody else's arrest.
 
 ## Continuity Notes
 
-Character state, object state, knowledge changes, and timeline facts.
+Sixth and seventh of January 1944. The file on the avenue Henri-Martin is being watched from the inside; the leak that Kalbach's office is hunting is Krystyna herself.

@@ -1,27 +1,32 @@
 ---
-title: Salt
+title: "The pearls on the Marszałkowska"
 chapter: chapter-13
 scene: 1
 pov: krystyna-stankiewicz
-location: warsaw-ghetto-ruins
+location: warsaw-srodmiescie
 characters:
   - krystyna-stankiewicz
-mentions: []
-arcs-advanced: []
-status: outline
+  - iga-zaleska
+mentions:
+  - wolfram-von-hagen
+arcs-advanced:
+  - the-hunt
+  - the-mask
+status: draft
 date: 1944-05-09
-time: ""
 sequel: false
-dilemma: ""
+dilemma: "Pawn the leash to pay for a dead courier's family, and wear paste in its place in front of the man who bought it"
+outcome: yes-but
+setting: exterior
 state-changes: []
 ---
 
-# Salt
+# The pearls on the Marszałkowska
 
 ## Purpose
 
-What this scene changes.
+The substitution: the real pearls sold to put a courier's family on a train out of the city, and the fake strand taken back to the villa.
 
 ## Continuity Notes
 
-Character state, object state, knowledge changes, and timeline facts.
+Twenty-sixth of April 1944, the Marszałkowska. One person in Warsaw knows about the substitution, and she is the second of the two women doing it.

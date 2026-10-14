@@ -13,6 +13,7 @@ locations:
   - paris-avenue-foch
   - warsaw-aleja-szucha
   - warsaw-frascati-villa
+  - warsaw-mokotow
 tags:
   - sd
   - counter-intelligence

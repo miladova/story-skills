@@ -7,6 +7,7 @@ date: 1944-03-06
 locations:
   - warsaw-mokotowska-flat
   - warsaw-srodmiescie
+  - warsaw-frascati-villa
 characters:
   - krystyna-stankiewicz
   - hanna-stankiewicz

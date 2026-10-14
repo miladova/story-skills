@@ -8,6 +8,7 @@ locations:
   - warsaw-srodmiescie
   - warsaw-mokotowska-flat
   - warsaw-ghetto-ruins
+  - warsaw-frascati-villa
 characters:
   - krystyna-stankiewicz
   - phillip-brandt

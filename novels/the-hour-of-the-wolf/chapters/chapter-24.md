@@ -8,6 +8,7 @@ locations:
   - warsaw-srodmiescie
   - warsaw-mokotowska-flat
   - warsaw-canals
+  - warsaw-mokotow
 characters:
   - phillip-brandt
   - krystyna-stankiewicz

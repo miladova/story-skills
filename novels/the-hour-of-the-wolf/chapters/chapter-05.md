@@ -7,6 +7,7 @@ date: 1943-12-24
 time: night
 locations:
   - paris-majestic
+  - paris-rue-saint-honore
 characters:
   - krystyna-stankiewicz
   - phillip-brandt

@@ -10,6 +10,7 @@ relationships:
     type: parent
 locations:
   - warsaw-mokotowska-flat
+  - wierzbow-estate
 tags:
   - family
 arc: the-mask

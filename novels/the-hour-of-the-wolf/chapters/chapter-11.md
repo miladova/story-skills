@@ -7,6 +7,8 @@ date: 1944-03-06
 locations:
   - warsaw-frascati-villa
   - warsaw-mokotowska-flat
+  - warsaw-wola
+  - warsaw-srodmiescie
 characters:
   - phillip-brandt
   - wolfram-von-hagen

@@ -15,6 +15,7 @@ relationships:
     type: spouse
 locations:
   - warsaw-mokotowska-flat
+  - wierzbow-estate
 tags:
   - polish-nobility
   - teacher

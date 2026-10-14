@@ -7,6 +7,7 @@ date: 1944-08-02
 locations:
   - warsaw-ghetto-ruins
   - warsaw-srodmiescie
+  - warsaw-wola
 characters:
   - phillip-brandt
   - krystyna-stankiewicz

@@ -21,6 +21,8 @@ locations:
   - warsaw-hoza
   - warsaw-canals
   - warsaw-wola
+  - wierzbow-estate
+  - warsaw-mokotow
 tags:
   - abwehr
   - translator

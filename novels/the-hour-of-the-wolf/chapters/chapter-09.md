@@ -6,6 +6,7 @@ status: draft
 date: 1944-03-06
 locations:
   - warsaw-mokotowska-flat
+  - warsaw-srodmiescie
 characters:
   - krystyna-stankiewicz
   - iga-zaleska

@@ -1,27 +1,33 @@
 ---
-title: The Brother
+title: "The arch across the Wilcza"
 chapter: chapter-10
 scene: 1
 pov: krystyna-stankiewicz
-location: warsaw-mokotowska-flat
+location: warsaw-srodmiescie
 characters:
   - krystyna-stankiewicz
-mentions: []
-arcs-advanced: []
-status: outline
+  - tadeusz-stankiewicz
+mentions:
+  - hanna-stankiewicz
+  - jerzy-stankiewicz
+arcs-advanced:
+  - the-mask
+  - the-uprising
+status: draft
 date: 1944-03-06
-time: ""
 sequel: false
-dilemma: ""
+dilemma: "Her brother has heard the truth about her from the section: what can be said between them now, and what will be said in front of the family"
+outcome: no-and
+setting: exterior
 state-changes: []
 ---
 
-# The Brother
+# The arch across the Wilcza
 
 ## Purpose
 
-What this scene changes.
+The brother's chapter: the eleven-metre arch with the empty lamp-bracket, the man standing in it, and the only conversation the two of them will ever be able to have.
 
 ## Continuity Notes
 
-Character state, object state, knowledge changes, and timeline facts.
+The Wilcza arch, Śródmieście, in the March of 1944. The section has told Tadeusz that his sister works for the Germans; he is told by the same people that she will be shot if she touches the family.

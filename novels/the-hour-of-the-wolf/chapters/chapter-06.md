@@ -8,6 +8,7 @@ locations:
   - paris-rue-saint-honore
   - warsaw-mokotowska-flat
   - warsaw-nowy-swiat-palace
+  - wierzbow-estate
 characters:
   - krystyna-stankiewicz
   - phillip-brandt

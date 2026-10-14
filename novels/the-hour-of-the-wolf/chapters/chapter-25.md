@@ -8,6 +8,7 @@ locations:
   - warsaw-mokotowska-flat
   - warsaw-srodmiescie
   - pruszkow-transit
+  - warsaw-wola
 characters:
   - krystyna-stankiewicz
   - jerzy-stankiewicz
