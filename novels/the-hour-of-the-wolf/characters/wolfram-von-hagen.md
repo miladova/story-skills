@@ -14,7 +14,9 @@ relationships:
   - character: emil-rutz
     type: servant
   - character: phillip-brandt
-    type: superior-officer
+    type: employer
+  - character: kurt-lindemann
+    type: employer
 locations:
   - paris-avenue-henri-martin
   - paris-majestic

@@ -24,11 +24,13 @@ story: the-hour-of-the-wolf
 | The canals | Landscape | Warsaw, under the city | [warsaw-canals](locations/warsaw-canals.md) |
 | The villa on Frascati Street | Building | Warsaw, Śródmieście (German quarter) | [warsaw-frascati-villa](locations/warsaw-frascati-villa.md) |
 | The ruins of the ghetto | Landscape | Warsaw, north of Śródmieście | [warsaw-ghetto-ruins](locations/warsaw-ghetto-ruins.md) |
+| The house on Hoża Street | Building | Warsaw, Śródmieście | [warsaw-hoza](locations/warsaw-hoza.md) |
 | The Stankiewicz flat, Mokotowska Street | Building | Warsaw, Śródmieście | [warsaw-mokotowska-flat](locations/warsaw-mokotowska-flat.md) |
 | The Stankiewicz palace, Nowy Świat | Building | Warsaw, Śródmieście | [warsaw-nowy-swiat-palace](locations/warsaw-nowy-swiat-palace.md) |
 | The Old Town | District | Warsaw | [warsaw-old-town](locations/warsaw-old-town.md) |
 | Pawiak Prison | Building | Warsaw, Wola | [warsaw-pawiak](locations/warsaw-pawiak.md) |
 | Śródmieście | District | Warsaw | [warsaw-srodmiescie](locations/warsaw-srodmiescie.md) |
+| Wola | District | Warsaw | [warsaw-wola](locations/warsaw-wola.md) |
 
 ## Systems
 

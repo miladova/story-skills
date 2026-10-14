@@ -20,6 +20,7 @@ locations:
   - paris-lutetia
   - warsaw-hoza
   - warsaw-canals
+  - warsaw-wola
 tags:
   - abwehr
   - translator

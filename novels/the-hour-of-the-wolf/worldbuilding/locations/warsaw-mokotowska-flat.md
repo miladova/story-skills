@@ -8,6 +8,7 @@ notable-characters:
   - hanna-stankiewicz
   - tadeusz-stankiewicz
   - krystyna-stankiewicz
+  - zofia-stankiewicz
 tags:
   - family-home
 status: active

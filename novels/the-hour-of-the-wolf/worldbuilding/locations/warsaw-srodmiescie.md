@@ -3,6 +3,9 @@ name: "Śródmieście"
 type: district
 region: Warsaw
 controlled-by: contested
+notable-characters:
+  - antoni-krupa
+  - iga-zaleska
 tags:
   - city-centre
   - ruins

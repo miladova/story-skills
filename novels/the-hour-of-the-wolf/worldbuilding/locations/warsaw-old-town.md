@@ -3,6 +3,8 @@ name: "The Old Town"
 type: district
 region: Warsaw
 controlled-by: contested
+notable-characters:
+  - basia-marciniak
 tags:
   - city-centre
   - siege

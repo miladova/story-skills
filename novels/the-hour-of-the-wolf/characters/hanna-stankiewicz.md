@@ -7,7 +7,9 @@ relationships:
   - character: krystyna-stankiewicz
     type: sibling
   - character: jerzy-stankiewicz
-    type: parent
+    type: child
+  - character: tadeusz-stankiewicz
+    type: sibling
 locations:
   - warsaw-mokotowska-flat
   - pruszkow-transit

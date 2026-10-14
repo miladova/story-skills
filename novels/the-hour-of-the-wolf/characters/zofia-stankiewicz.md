@@ -20,7 +20,7 @@ ghost-wound: "1932: she sold the horses one at a time and told no one, and then 
 voice-words: []
 voice-avoid: []
 progressions:
-  - from: story-start
+  - from: chapter-01
     field: fate
     value: "Already dead when the book opens: died February 1941 of pneumonia and hunger in the flat on Mokotowska Street, in her sleep, with her daughter's letters from Hungary under the pillow"
 ---

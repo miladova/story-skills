@@ -7,6 +7,7 @@ notable-characters:
   - krystyna-stankiewicz
   - wolfram-von-hagen
   - emil-rutz
+  - celine-marchand
 tags:
   - requisitioned-house
 status: active

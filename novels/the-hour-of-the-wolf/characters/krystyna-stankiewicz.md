@@ -20,6 +20,22 @@ relationships:
     type: lover
   - character: wiktor-janowski
     type: handler
+  - character: antoni-krupa
+    type: agent
+  - character: basia-marciniak
+    type: colleague
+  - character: bruno-kalbach
+    type: prey
+  - character: celine-marchand
+    type: friend
+  - character: emil-rutz
+    type: acquaintance
+  - character: iga-zaleska
+    type: colleague
+  - character: odile-boin
+    type: accomplice
+  - character: zofia-stankiewicz
+    type: child
 locations:
   - paris-avenue-henri-martin
   - warsaw-frascati-villa
@@ -42,7 +58,6 @@ voice-words:
   - "of course"
 voice-avoid:
   - "darling"
-locations_note: "see worldbuilding/locations"
 progressions:
   - from: chapter-06
     field: alias-risk
@@ -59,7 +74,7 @@ progressions:
   - from: chapter-25
     field: whereabouts
     value: "Left Warsaw with the civilian column in October 1944, went south on forged papers"
-  - from: epilogue
+  - from: chapter-26
     field: whereabouts
     value: "Back in Warsaw, 1 August 1945"
 ---

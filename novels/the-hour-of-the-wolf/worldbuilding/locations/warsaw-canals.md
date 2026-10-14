@@ -3,6 +3,10 @@ name: "The canals"
 type: landscape
 region: Warsaw, under the city
 controlled-by: home-army
+notable-characters:
+  - krystyna-stankiewicz
+  - phillip-brandt
+  - tadeusz-stankiewicz
 tags:
   - route
   - rising

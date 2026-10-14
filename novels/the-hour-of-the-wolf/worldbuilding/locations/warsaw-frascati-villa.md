@@ -8,6 +8,7 @@ notable-characters:
   - krystyna-stankiewicz
   - emil-rutz
   - bruno-kalbach
+  - kurt-lindemann
 tags:
   - requisitioned-villa
   - german-quarter

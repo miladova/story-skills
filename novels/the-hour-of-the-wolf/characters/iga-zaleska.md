@@ -10,6 +10,8 @@ relationships:
     type: colleague
   - character: antoni-krupa
     type: subordinate
+  - character: tadeusz-stankiewicz
+    type: contact
 locations:
   - warsaw-srodmiescie
   - warsaw-aleja-szucha

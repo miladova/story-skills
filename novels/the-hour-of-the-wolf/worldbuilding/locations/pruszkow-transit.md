@@ -3,6 +3,8 @@ name: "Dulag 121, Pruszków"
 type: landscape
 region: Outside Warsaw
 controlled-by: wehrmacht-frankreich
+notable-characters:
+  - hanna-stankiewicz
 tags:
   - transit-camp
 status: active

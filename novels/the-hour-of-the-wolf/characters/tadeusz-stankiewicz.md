@@ -8,7 +8,7 @@ relationships:
   - character: krystyna-stankiewicz
     type: sibling
   - character: jerzy-stankiewicz
-    type: parent
+    type: child
   - character: hanna-stankiewicz
     type: sibling
   - character: iga-zaleska

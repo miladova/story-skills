@@ -7,7 +7,7 @@ aliases:
   - "Sęk (Knot)"
 relationships:
   - character: iga-zaleska
-    type: superior
+    type: employer
   - character: krystyna-stankiewicz
     type: handler
 locations:

@@ -11,6 +11,8 @@ relationships:
     type: parent
   - character: hanna-stankiewicz
     type: parent
+  - character: zofia-stankiewicz
+    type: spouse
 locations:
   - warsaw-mokotowska-flat
 tags:
