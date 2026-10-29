@@ -685,3 +685,81 @@ Lucius slowed. “Will you come with me?”
 She could have refused. She had work waiting at home and a mother who would not be pleased to lose her for the evening. But Lucius had asked without a joke, and she had seen his father’s face when he spoke of Celer. There was something in it she wanted to understand.
 
 “I’ll come,” she said. “You can take the shoes off first.”
+
+He took the shoes from his neck and put them on. The wet one squelched. They crossed to the magistrates’ building, meaning only to pass it, but Celer’s wife stood in the doorway and called Marcia by name. Her hair had come loose at one temple. In one hand she held a folded cloth, clutched so tightly that her knuckles had gone pale.
+
+“Your mother sent you?” she asked.
+
+“No. We were going past.”
+
+“Will she finish the wool?”
+
+Marcia looked at the cart. “It’s yours?”
+
+“It is now. They say the steward paid for it, but I don’t know who’s owed what.” The woman drew Marcia a little aside, away from the people at the door. “I can’t leave it at the house. His brother says men will come for it. If your mother takes it, she can keep her fee from what it brings.”
+
+Marcia knew her mother’s rules: no goods without a name for their owner, no credit for people who had a choice about paying, and no promises made by Marcia on her behalf. She also knew what a sack of good wool would be worth if they could wash and dye it before winter.
+
+“I’ll ask her.”
+
+“Ask her tonight.”
+
+“What will you do if the steward comes?”
+
+“Tell him I’ve sold it.”
+
+“Have you?”
+
+“Not yet.” The woman glanced toward the men inside. “They’re writing everything down. They asked what Celer was carrying. I said a purse and a knife. He had the knife on him, so now they want to know why he didn’t use it.”
+
+“Did you tell them?”
+
+“I told them I wasn’t there.” She opened the cloth. Inside was a small, flat piece of wood, dark with blood at one edge. A hole had been drilled through the end, and a frayed cord passed through it. “This was in his hand. They said it was rubbish. I thought it belonged to a chest.”
+
+The wood had a shallow notch cut into it and two marks below, one longer than the other. It was no key Marcia had seen. She took it carefully by the cord and turned it over. On the other side, scratched into the grain, was a letter. The cut was old; dirt had settled in the grooves.
+
+Lucius came closer. “May I see?”
+
+Celer’s wife looked from one to the other. “Do you know what it is?”
+
+“A tally, perhaps,” he said. “They use them at the quarry.”
+
+“What for?”
+
+“To count loads, or days worked. It depends who made it.”
+
+He reached out, but the woman closed her hand around the wood. “Did my husband work there?”
+
+“I don’t know.”
+
+“He brought them wool. That’s all I know.” She tucked the tally back into the cloth. “If I leave it with you, can you find out?”
+
+Lucius said yes. Marcia heard the eagerness in his voice and wished he had waited. The woman hesitated, then gave it to him. At the door of the building someone called her, and she went in, leaving the two of them with the piece of wood between them.
+
+“You could have said no,” Marcia told him.
+
+“She needs an answer.”
+
+“She needs an honest one. Your father told you not to ask questions.”
+
+“He told me not to ask the man from Nicomedia.”
+
+“And you’re going to ask him?”
+
+“My father?” Lucius slipped the tally beneath the cord around the tablet. “I’ll ask him about the wool.”
+
+Marcia watched the cord bite into the wood. If Celer had carried it all the way to the river in his hand, he must have gripped it through the journey, through the jolt of the wheels and the mule’s long stop at the water. She thought again of climbing onto the cart, of seeing his curled fingers and stepping down without touching them.
+
+A messenger pushed through the crowd and entered the magistrates’ building. He wore the badge of the town office and carried a roll of parchment. The officer outside called after him; he did not stop. A moment later Celer’s wife came out, walking quickly. She did not look at them. She went to the cart, gathered the mule’s reins and climbed onto the seat.
+
+Her husband’s brother followed. “They’ve sent for the wool,” he said to her. “You have to leave it.”
+
+She settled herself with the reins in her lap. “Who has?”
+
+“The magistrate.”
+
+“Then he can tell me himself.”
+
+The brother put his hand on the wheel. She shook the reins, and the mule moved forward. The wheel turned beneath his palm; he stepped back rather than let it catch his fingers. The town officer shouted. Celer’s wife kept going, straight through the crowd and onto the bridge, with the wool and her dead husband behind her.
+
+Lucius laughed once, in surprise. Marcia did not. She was already thinking of the dye-yard gate, and whether her mother could close it before the officer arrived.
